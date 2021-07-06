@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Holger 👋
+
+I'm a web-developer living in Minneapolis, MN, but I'm originally from NY.
 
 <!--
 **Holgermueller/Holgermueller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
