@@ -2,6 +2,8 @@
 
 I'm a web-developer living in Minneapolis, MN, but I'm originally from NY.
 
+- 😄 Pronouns: He/Him
+
 <!--
 **Holgermueller/Holgermueller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
