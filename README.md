@@ -4,6 +4,8 @@ I'm a web-developer living in Minneapolis, MN, but I'm originally from NY. I enj
 
 - 😄 Pronouns: He/Him
 
+- You can reach me on: [![LinkedIn][3.2]][3]
+
 <!--
 **Holgermueller/Holgermueller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
