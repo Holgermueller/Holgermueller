@@ -4,11 +4,7 @@ I'm a web-developer living in Minneapolis, MN, but I'm originally from NY. I enj
 
 - 😄 Pronouns: He/Him
 
-- You can reach me on: [![LinkedIn][3.2]][3]
 
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-[2]: https://www.linkedin.com/in/holger-mueller-75855114a/
 
 <!--
 **Holgermueller/Holgermueller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
