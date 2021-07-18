@@ -1,6 +1,6 @@
 ### Hi there, I'm Holger 👋
 
-I'm a web-developer living in Minneapolis, MN, but I'm originally from the Hudson Valley in NY. I enjoy reading, watching movies, writing, listening to music, exercising, and drawing.
+I'm a full-stack web developer living in Minneapolis, MN, but I'm originally from the Hudson Valley in NY. I enjoy reading, watching movies, writing, listening to music, exercising, spending time with my wife, and drawing.
 
 - 😄 Pronouns: He/Him
 
