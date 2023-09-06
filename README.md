@@ -1,6 +1,6 @@
 ### Hi there, I'm Holger 👋
 
-I'm a full-stack web developer living in Batesville, Arkansas, but I'm originally from the Hudson Valley in NY. I've also spent several years in Minneapolis, MN where I endured the beligerent Minnesota winters. I enjoy reading, watching movies, writing, listening to music, exercising, spending time with my wife, and drawing.
+I'm a full-stack web developer, specializing in front-end development, and UX/UI designer living in Batesville, Arkansas, but I'm originally from the Hudson Valley in NY. I've also spent several years in Minneapolis, MN where I endured the beligerent Minnesota winters. I enjoy reading, watching movies, writing, listening to music, exercising, spending time with my wife, and drawing.
 
 - 😄 Pronouns: He/Him
 
